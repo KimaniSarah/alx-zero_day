@@ -1,2 +1,2 @@
-my first readme as an SE student
+my second README
 
